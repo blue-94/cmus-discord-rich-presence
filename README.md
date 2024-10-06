@@ -1,8 +1,7 @@
 # Cmus discord rich presence
 A small python script using pypresence to show cmus status. Song (and current position), album, year, artist, and album art are shown. 
 
-Album art is extracted from the music file to file.jpg and uploaded to [litterbox.catbox.moe](https://litterbox.catbox.moe/), which temporarily stores the file for 2 hours. 
-Information regarding the song is stored in the data.txt, which is created. 
+Two files will be created when the script is ran. Album art is extracted from the music file to file.jpg and uploaded to [litterbox.catbox.moe](https://litterbox.catbox.moe/), which temporarily stores the file for 2 hours. Information regarding the song will be stored in the data.txt. 
 
 ## To do (a lot 😭):
 - [ ] Stop elapsed time when paused (time currently continues)
