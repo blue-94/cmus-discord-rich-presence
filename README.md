@@ -18,6 +18,6 @@ Information regarding the song is stored in the data.txt, which is created.
 - pypresence: installed using `pip install pypresence`
 
 ## Usage:
-Run `python3 rpc.py`.
+Run `python3 rpc.py`. To stop/quit press control-C.
 
 Currently only supported on Linux, as I haven't tested the script on other operating systems. It _might_ work on Mac.
