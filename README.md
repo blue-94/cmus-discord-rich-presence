@@ -1,3 +1,4 @@
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 # Cmus discord rich presence
 A small python script using pypresence to show cmus status. Song (and current position), album, year, artist, and album art are shown. 
 
