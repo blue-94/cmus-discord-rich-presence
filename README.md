@@ -13,7 +13,7 @@ Two files will be created when the script is run. Album art is extracted from th
 - [ ] Allow script to run if cmus is not running, waiting for cmus to run
 
 ## Requirements:
-- ffmpeg: installed using `sudo apt-get install curl`
+- ffmpeg: installed using `sudo apt-get install ffmpeg`
 - curl: installed using `sudo apt-get install curl`
 - pypresence: installed using `pip install pypresence`
 
