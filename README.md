@@ -20,3 +20,6 @@ Two files will be created when the script is ran. Album art is extracted from th
 Run `python3 rpc.py`. To stop/quit press control-C.
 
 Currently only supported on Linux, as I haven't tested the script on other operating systems. It _might_ work on Mac.
+
+## Example
+![Image of a discord rich presence with album art and details](screenshot.png)
