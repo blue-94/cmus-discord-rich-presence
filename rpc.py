@@ -1,5 +1,4 @@
 from pypresence import Presence
-import io
 from math import floor
 import time
 import os
