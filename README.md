@@ -19,7 +19,7 @@ Three files will be created when the script is run. Album art is extracted from 
 - pypresence: installed using `pip install pypresence`
 
 ## Usage:
-Run `python3 rpc.py`. To stop/quit press control-C.
+Run `python3 rpc.py`. To stop/quit press control-c.
 
 Currently only supported on Linux, as I haven't tested the script on other operating systems. It _might_ work on Mac.
 
