@@ -41,7 +41,7 @@ while True:
         album = lines[5][9:]
 
         if lines[8][0:16] == "tag originaldate":
-            year = lines[8][16:]
+            year = lines[8][16:21]
         else:
             year = lines[7][8:]
 
