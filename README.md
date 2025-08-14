@@ -24,4 +24,4 @@ Run `python3 rpc.py`. To stop/quit press control-c.
 Currently only supported on Linux, as I haven't tested the script on other operating systems. It _might_ work on Mac.
 
 ## Example
-![Image of a discord rich presence with album art and details](screenshot.png)
+![Image of a discord rich presence with album art and details](rpc.png)
